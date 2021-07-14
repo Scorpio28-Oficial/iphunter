@@ -1,0 +1,17 @@
+### iphunter
+Informática y Hacking © 2020
+
+### INSTALACIÓN
+
+```
+pkg update && pkg upgrade 
+
+pkg install -y python3
+
+pkg install -y git
+
+git clone https://github.com/Scorpio28-Oficial/iphunter
+
+cd iphunter
+
+chmod 777

@@ -14,4 +14,10 @@ git clone https://github.com/Scorpio28-Oficial/iphunter
 
 cd iphunter
 
-chmod 777
+chmod 777 setup.sh requirements.txt
+
+Bash setup.sh
+
+pip install -r requirements.txt
+
+
